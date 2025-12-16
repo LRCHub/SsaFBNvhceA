@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Kashmir (1990 Remaster)",
+  "base_artist": "Led Zeppelin",
+  "createdAt": "2025-12-16T06:34:21.025016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kashmir - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_Kashmir_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kashmir",
+      "artist": "עפרה חזה",
+      "has_synced": false,
+      "path": "select/02_Kashmir_עפרה_חזה.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kashmir",
+      "artist": "Ofra Haza",
+      "has_synced": false,
+      "path": "select/03_Kashmir_Ofra_Haza.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kashmir - 1990 Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/04_Kashmir_-_1990_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kashmir (Remaster) (Explicit)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/05_Kashmir_(Remaster)_(Explicit)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kashmir",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/06_Kashmir_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kashmir",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_Kashmir_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kashmir",
+      "artist": "Dixie Dregs",
+      "has_synced": false,
+      "path": "select/08_Kashmir_Dixie_Dregs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kashmir",
+      "artist": "Dread Zeppelin",
+      "has_synced": false,
+      "path": "select/09_Kashmir_Dread_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kashmir (Led Zeppelin Cover)",
+      "artist": "Angra",
+      "has_synced": false,
+      "path": "select/10_Kashmir_(Led_Zeppelin_Cover)_Angra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Driving Through Kashmir (Kashmir Rough Orchestra Mix)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/11_Driving_Through_Kashmir_(Kashmir_Rough_Orchestra_Mix)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kashmir (Explicit)",
+      "artist": "Led Zepplin",
+      "has_synced": true,
+      "path": "select/12_Kashmir_(Explicit)_Led_Zepplin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kashmir (Cash Mirage Mix)",
+      "artist": "Dread Zeppelin",
+      "has_synced": false,
+      "path": "select/13_Kashmir_(Cash_Mirage_Mix)_Dread_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kashmir (Spice Remix)",
+      "artist": "Dread Zeppelin",
+      "has_synced": false,
+      "path": "select/14_Kashmir_(Spice_Remix)_Dread_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Walk These Dogs (feat. Kashmir)",
+      "artist": "DMX feat. Kashmir",
+      "has_synced": false,
+      "path": "select/15_Walk_These_Dogs_(feat._Kashmir)_DMX_feat._Kashmir.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kashmir",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/pl_01_Kashmir_Led_Zeppelin.txt"
+    }
+  ]
+}
